@@ -1,6 +1,6 @@
 import  React ,{useState} from 'react';
 import api from '../services/api/api';
-import Spinner from '../components/Spinner';
+import Spinner from '../components/spinner';
 
 const App = ( ) => {
 
